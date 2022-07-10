@@ -11,13 +11,13 @@ box-shadow: 1px 1px 2px 2px rgb(209, 204, 204);
 }
 
 .section:first-child {
-    margin-bottom: 20px;
+margin-bottom: 20px;
 }
 
 .section:last-child {
-    height: 26vh;
+height: 26vh;
 }
 
 .title {
-    margin-bottom: 15px;
+margin-bottom: 15px;
 }
