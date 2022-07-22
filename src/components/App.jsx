@@ -34,9 +34,7 @@ export const App = () => {
   };
 
   const countPositiveFeedbackPercentage = () => {
-    const countPercent = Math.round(
-      (this.state.good / this.countTotalFeedback()) * 100
-    );
+    const countPercent = Math.round((good / countTotalFeedback()) * 100);
     return countPercent;
   };
 
